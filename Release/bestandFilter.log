@@ -1,0 +1,9 @@
+﻿  app.cpp
+F:\programming\visual_studio\projects\c++\bestandFilter\app.cpp(26,21): warning C4018: '<': signed/unsigned mismatch
+F:\programming\visual_studio\projects\c++\bestandFilter\app.cpp(27,22): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  8 of 594 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    31 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  bestandFilter.vcxproj -> F:\programming\visual_studio\projects\c++\bestandFilter\Release\bestandFilter.exe

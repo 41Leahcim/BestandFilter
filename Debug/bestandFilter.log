@@ -1,0 +1,4 @@
+﻿  app.cpp
+F:\programming\visual_studio\projects\c++\bestandFilter\app.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+F:\programming\visual_studio\projects\c++\bestandFilter\app.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+  bestandFilter.vcxproj -> F:\programming\visual_studio\projects\c++\bestandFilter\Debug\bestandFilter.exe

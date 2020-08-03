@@ -1,0 +1,7 @@
+﻿  app.cpp
+  Generating code
+  20 of 617 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    93 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  bestandFilter.vcxproj -> F:\programming\visual_studio\projects\c++\bestandFilter\x64\Release\bestandFilter.exe
