@@ -1,2 +1,0 @@
-F:\programming\visual_studio\projects\c++\bestandFilter\Debug\bestandFilter.exe
-F:\programming\visual_studio\projects\c++\bestandFilter\Debug\bestandFilter.pdb
